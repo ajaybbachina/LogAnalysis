@@ -1,0 +1,34 @@
+Select any of the below question:
+1. What are the most popular three articles of all time?
+2. Who are the most popular article authors of all time?
+3. On which days did more than 1% of requests lead to errors?
+1
+        Candidate is jerk, alleges rival - 338647 views
+        Bears love berries, alleges bear - 253801 views
+        Bad things gone, say good people - 170098 views
+        Goats eat Google's lawn - 84906 views
+        Trouble for troubled troublemakers - 84810 views
+        Balloon goons doomed - 84557 views
+        There are a lot of bears - 84504 views
+        Media obsessed with bears - 84383 views
+Do you want to make another selection y-yes or any other key to exit.
+y
+Select any of the below question:
+1. What are the most popular three articles of all time?
+2. Who are the most popular article authors of all time?
+3. On which days did more than 1% of requests lead to errors?
+2
+        Ursula La Multa - 507594 views
+        Rudolf von Treppenwitz - 423457 views
+        Anonymous Contributor - 170098 views
+        Markoff Chaney - 84557 views
+Do you want to make another selection y-yes or any other key to exit.
+y
+Select any of the below question:
+1. What are the most popular three articles of all time?
+2. Who are the most popular article authors of all time?
+3. On which days did more than 1% of requests lead to errors?
+3
+        Jul 17,2016 - 2.3% errors
+Do you want to make another selection y-yes or any other key to exit.
+n
